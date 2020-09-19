@@ -6,7 +6,7 @@
 	"dependencies": [
 		"sampctl/samp-stdlib",
 		"Southclaws/samp-logger:1.2.6",
-		"pawn-lang/YSI-Includes",
+		"pawn-lang/YSI-Includes@5.x",
 		"samp-incognito/samp-streamer-plugin:v2.9.3",
 		"ScavengeSurvive/action-text:1.0.0",
 		"ScavengeSurvive/mathutil:1.0.0",
